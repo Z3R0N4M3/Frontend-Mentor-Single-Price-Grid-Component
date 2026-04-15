@@ -134,4 +134,13 @@ a {
     width: 265px ;
   
   }
+  h1{
+    font-size: 22px;
+  }
+  .a{
+    font-size: 17px;
+  }
+  .b{
+    font-size:14px ;
+  }
 }
